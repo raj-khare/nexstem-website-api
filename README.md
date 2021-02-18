@@ -2,4 +2,5 @@
 
 ### Usage
 1. Configure Stripe key as an env variable
-1. `nodemon server.js`
+2. `npm i`
+3. `nodemon server.js`
